@@ -21,7 +21,7 @@ Students: <br>
 
 ## Contents
 - [Introduction](#introduction)
-- [Objectives&Tasks](#Objectives&Tasks)
+- [Objectives&Tasks](#Objectives-and-Tasks)
 - [Related techniques](#Related-techniques)
 - [Implementation](#Implementation)
 - [Conclusion](#Conclusion)
@@ -33,7 +33,7 @@ Students: <br>
 
 
 
-## Objectives&Tasks
+## Objectives and Tasks
 
 
 
