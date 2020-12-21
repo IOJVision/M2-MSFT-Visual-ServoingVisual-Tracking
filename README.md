@@ -10,7 +10,8 @@
 <h3 align="center">Visual Servoing Project</h3> <br>
 
 <p align="center"> 
-   Students: MUHAMMAD IZZUL, Pranavan Ramakrishnan, Cheng CHEN
+   
+   **Students**: MUHAMMAD IZZUL, Pranavan Ramakrishnan, Cheng CHEN
 </p >  
 
 <p align="center">
