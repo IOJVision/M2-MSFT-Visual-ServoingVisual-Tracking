@@ -11,7 +11,7 @@
 
    
 <h4 align="center"> 
-Supervisors:Omar TAHRI
+Supervisors:<br>Omar TAHRI
 </h4> 
 
 <h4 align="center">                       
