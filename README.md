@@ -10,9 +10,9 @@
 <h3 align="center">Visual Servoing Project</h3> 
 
    
-<h3 align="center"> 
+<h4 align="center"> 
 Supervisors:Omar TAHRI
-</h3> 
+</h4> 
 
 <h4 align="center">                       
 Students: <br>  
