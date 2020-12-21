@@ -11,10 +11,10 @@
 
    
 <h4 align="center"> 
-Supervisors:<br>Omar TAHRI
+Supervisors: Omar TAHRI
 </h4> 
 
-<h4 align="center">                       
+<p align="center">                       
 Students: <br>  
  MUHAMMAD IZZUL<br> Pranavan Ramakrishnan<br> Cheng CHEN
-</h4>
+</p>
