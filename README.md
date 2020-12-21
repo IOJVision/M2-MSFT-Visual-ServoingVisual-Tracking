@@ -9,7 +9,12 @@
 # <p align="center">Master of Computer vision and Robotics</p >   
 <h3 align="center">Visual Servoing Project</h3> <br>
 
-<p align="center">  **Students**: MUHAMMAD IZZUL, Pranavan Ramakrishnan, Cheng CHEN </p >  
+<h4 align="center">                       
+Students: <br>  
+ MUHAMMAD IZZUL, Pranavan Ramakrishnan, Cheng CHEN
+</h4>
+
+<p align="center">  Students: MUHAMMAD IZZUL<br> Pranavan Ramakrishnan<br> Cheng CHEN </p >  
 
 <p align="center"> Supervisors: Omar TAHRI</p >  
    
