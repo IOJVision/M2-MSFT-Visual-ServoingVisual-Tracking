@@ -59,8 +59,8 @@ Students: <br>
 
 __Demonstration__ of Following line:<br>
 <p align="center">
-<img src="videos/t3_follow_line.gif"/></p> <br>
-Please click this link to download the full <a href="videos/t3_following_line_video.mp4">video</a>
+<img src="video/t3_follow_line.gif"/></p> <br>
+Please click this link to download the full <a href="video/t3_following_line_video.mp4">video</a>
 
       
 
