@@ -26,8 +26,11 @@ The purpose of this project is to make turtlebot3 realize the following two func
 
 - Automatic tracking: make the robot track and follow a yellow line by the camera information
 - Automatic parking: detect and understand parking sign and park automatically in the right position<br>
+
+
 Our map choices: 
-Turtlebot3_autorace_2020
+
+- Turtlebot3_autorace_2020
 
 
 
