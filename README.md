@@ -19,26 +19,15 @@ Students: <br>
  MUHAMMAD IZZUL<br> Pranavan Ramakrishnan<br> Cheng CHEN
 </p>
 
-## Contents
-- [Introduction](#introduction)
-- [Objectives&Tasks](#Objectives-and-Tasks)
-- [Related techniques](#Related-techniques)
-- [Implementation](#Implementation)
-- [Conclusion](#Conclusion)
-- [References](#References)
-
-
-## Introduction
-
-
-
 
 ## Objectives and Tasks
 
+The purpose of this project is to make turtlebot3 realize the following two functions:
 
-
-
-## Related techniques
+- Automatic tracking: make the robot track and follow a yellow line by the camera information
+- Automatic parking: detect and understand parking sign and park automatically in the right position<br>
+Our map choices: 
+Turtlebot3_autorace_2020
 
 
 
@@ -65,11 +54,3 @@ Please click this link to download the full <a href="video/t3_following_line_vid
       
 
 
-
-
-## Conclusion
-
-
-
-
-## References
