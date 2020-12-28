@@ -20,7 +20,7 @@ Students: <br>
 </p>
 
 
-## Objectives and Tasks
+## Objectives
 
 The purpose of this project is to make turtlebot3 realize the following two functions:
 
