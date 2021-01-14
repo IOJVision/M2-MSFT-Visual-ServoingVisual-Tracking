@@ -73,7 +73,7 @@ __Demonstration__ of Parking Detection and Park:<br>
 <p align="center">
 <img src="video/t3_follow_line.gif"/></p> <br>
 <p align="center">The parking sign detected</p>
-Please click this link to download the full <a href="video/t3_detect_parking(1).mp4">video</a>
+Please click this link to download the full <a href="video/t3_detect_parking (1).mp4">video</a>
 
 <p align="center">
 <img src="video/t3_follow_line.gif"/></p> <br>
