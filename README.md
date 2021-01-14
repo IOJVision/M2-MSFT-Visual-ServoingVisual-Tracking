@@ -47,11 +47,37 @@ Our map choices:
 - To launch the follow the line
 	   
       roslaunch t3_follow_line t3_lane_detects.launch
-	   roslaunch t3_follow_line t3_lane_controls.launch
+      roslaunch t3_follow_line t3_lane_controls.launch
 
 __Demonstration__ of Following line:<br>
 <p align="center">
 <img src="video/t3_follow_line.gif"/></p> <br>
+Please click this link to download the full <a href="video/t3_following_line_video.mp4">video</a>
+
+
+**Parking Detection and Park**
+- To launch the map and bringup turtlebot
+      
+      roslaunch turtlebot3_gazebo turtlebot3_autorace.launch 
+- To launch the calibration 
+	   
+      roslaunch t3_camera t3_intrinsic_camera_calibration.launch
+      roslaunch t3_camera t3_extrinsic_camera_calibration.launch
+- To launch the parking detection
+	   
+      roslaunch t3_parking_sign_detect t3_detect_sign.launch
+      roslaunch t3_parking_sign_detect t3_detect_parking.launch
+      roslaunch t3_parking_sign_detect t3_control_parking.launch
+
+__Demonstration__ of Parking Detection and Park:<br>
+<p align="center">
+<img src="video/t3_follow_line.gif"/></p> <br>
+<p align="center">The parking sign detected</p>
+Please click this link to download the full <a href="video/t3_following_line_video.mp4">video</a>
+
+<p align="center">
+<img src="video/t3_follow_line.gif"/></p> <br>
+<p align="center">The turtlebot park at the parking</p>
 Please click this link to download the full <a href="video/t3_following_line_video.mp4">video</a>
 
       
