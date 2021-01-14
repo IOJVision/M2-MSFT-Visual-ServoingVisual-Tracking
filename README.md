@@ -72,12 +72,12 @@ Please click this link to download the full <a href="video/t3_following_line_vid
 __Demonstration__ of Parking Detection and Park:<br>
 <p align="center">
 <img src="video/t3_detect_parking_gif.gif"/></p> <br>
-<p align="center">The parking sign detected</p><br>
+<p align="center">The parking sign detected</p>
 Please click this link to download the full <a href="video/t3_detect_parking (1).mp4">video</a>
-
+<br>
 <p align="center">
 <img src="video/t3_control_parking_gif.gif"/></p> <br>
-<p align="center">The turtlebot park at the parking</p><br>
+<p align="center">The turtlebot park at the parking</p>
 Please click this link to download the full <a href="video/t3_control_parking.mp4">video</a>
 
       
